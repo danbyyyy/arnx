@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GAQSCN2HZ7I52HSF4UDR4LN33YPXOZBEXENF3AQRFS2QWKUDW4BFTKTN"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Aeron"
+ORG_URL="https://aeron.aero/"
+ORG_DESCRIPTION="Aeron aspires to become the new standard of aviation safety powered by blockchain to create a decentralized system of storing, recording, and verification of all data concerning the aviation industry to make our flights safer to fly."
+ORG_TWITTER="@aeron_aero"
+ORG_LOGO="https://i.ibb.co/ZHKs40Y/money.png"
+ORG_OFFICIAL_EMAIL="supportaeron@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="ARNX"
+issuer="GAQSCN2HZ7I52HSF4UDR4LN33YPXOZBEXENF3AQRFS2QWKUDW4BFTKTN"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Aeron"
+desc="Aeron (ARN) utility token is incorporated in Aeron products. It helps to enhance product usage, allow contribution to the ecosystem, product access, and ownership. ARN is a bootstrapping engagement. While the token will enable access to valuable features within the Aeron platform, it will not be limited by the Aeron mobile applications."
+conditions="Instant exchanges and multi-asset wallets supporting ARNX token"
+image="https://i.ibb.co/ZHKs40Y/money.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#ARNX was issued using the open and inclusive Stellar blockchain network.
